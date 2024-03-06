@@ -1,4 +1,4 @@
-
+![Praxis-Students-champion1](https://github.com/aniiketbarphe/EPO_Patent_Classification-Data_Science_Championship_March2024-Machinehack/assets/84449238/ba97a5be-5b49-4502-9da2-46e16a6da371)
 
 # EPO_Patent_Classification-Data_Science_Championship_March2024-Machinehack
 
